@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MakJordy
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning website development and hosting
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m a software engineering student at alx_africa
+- 🌱 I’m currently learning software engineering fundamentals
+- 💞️ I’m looking to collaborate on beginner-friendly projects
+- 📫 How to reach me ... @ndedejordanna on linkedin
 
 <!---
 MakJordy/MakJordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
